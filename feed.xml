@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>My Private History Audio Feed</title>
     <link>https://github.com/house-dj/Private-Podcasts/</link>
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
+    <lastBuildDate>Fri, 31 Oct 2025 16:54:21 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -14,65 +15,5 @@
       <itunes:name>JDHe</itunes:name>
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 30 Oct 2025 12:00:00 +0000</lastBuildDate> 
-
-    <item>
-      <title>104: Early Anglo-Saxon Kingdoms (500-700)</title>
-      <pubDate>Thu, 30 Oct 2025 10:00:00 +0000</pubDate>
-      <description>Discussion of the kingdoms between 500 and 700 AD.</description>
-      <guid isPermaLink="false">104-early-anglo-saxon</guid>
-      <enclosure 
-        url="https://house-dj.github.io/Private-Podcasts/104_British_History_Early_Anglo-Saxon_Kingdoms_500700_20251030-200235%2B0800_AUDIO.mp3"
-        length="9278464" 
-        type="audio/mpeg"
-      />
-      <itunes:duration>36.48</itunes:duration> 
-      <itunes:author>My Name</itunes:author>
-    </item>
-
-    <item>
-      <title>105: Viking Age and English Unification (700-900)</title>
-      <pubDate>Thu, 30 Oct 2025 10:30:00 +0000</pubDate>
-      <description>Focus on the Viking incursions and the start of unification in England.</description>
-      <guid isPermaLink="false">105-viking-unification</guid>
-      <enclosure 
-        url="https://house-dj.github.io/Private-Podcasts/105_British_History_Viking_Age_English_Unification_700900_20251030-200601%2B0800__AUDIO.mp3"
-        length="11538432" 
-        type="audio/mpeg"
-      />
-      <itunes:duration>48.04</itunes:duration> 
-      <itunes:author>My Name</itunes:author>
-    </item>
-
-        <item>
-      <title>106: The Late Anglo-Saxon Period and Danish Kings 900 to 1066</title>
-      <pubDate>Thu, 30 Oct 2025 10:30:00 +0000</pubDate>
-      <description>The Late Anglo-Saxon Period and the Danish Kings of England</description>
-      <guid isPermaLink="false">106 The Late Anglo-Saxon Period</guid>
-      <enclosure 
-        url="https://house-dj.github.io/Private-Podcasts/106_British_History_Late_Anglo-Saxon_Danish_Kings_9001066_20251031-131918+0800_SCRIPT__AUDIO.mp3"
-        length="8350000" 
-        type="audio/mpeg"
-      />
-      <itunes:duration>33.55</itunes:duration> 
-      <itunes:author>My Name</itunes:author>
-    </item>
-
-      <item>
-      <title>107: The Norman Conquest and Settlement 1066 to 1154</title>
-      <pubDate>Thu, 30 Oct 2025 10:30:00 +0000</pubDate>
-      <description>The Norman_Conquest of England and Post-Conquest Settlement</description>
-      <guid isPermaLink="false">107 The Norman Conquest and Settlement 1066 to 1154</guid>
-      <enclosure 
-        url="https://house-dj.github.io/Private-Podcasts/107_British_History_Norman_Conquest_Settlement_10661154_20251031-132227+0800_SCRIPT__AUDIO.mp3"
-        length="9205000" 
-        type="audio/mpeg"
-      />
-      <itunes:duration>37.24</itunes:duration> 
-      <itunes:author>My Name</itunes:author>
-    </item>
   </channel>
-
 </rss>
-
-

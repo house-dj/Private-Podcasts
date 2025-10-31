@@ -6,6 +6,9 @@ import xml.etree.ElementTree as ET
 from mutagen.mp3 import MP3
 
 # --- Configuration ---
+# Get the directory where the script is located (this is assumed to be the repo root)
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+
 # Your GitHub Pages Base URL (REQUIRED for enclosure links)
 BASE_URL = "https://house-dj.github.io/Private-Podcasts/"
 # Local directory where new, un-processed MP3 files are placed
@@ -14,6 +17,10 @@ NEW_AUDIO_DIR = "_new_uploads"
 FEED_FILE = "feed.xml"
 # Repository details for Git commands
 REPO_NAME = "Private-Podcasts"
+
+# Construct absolute paths for reliable file access
+NEW_AUDIO_FULL_PATH = os.path.join(SCRIPT_DIR, NEW_AUDIO_DIR)
+FEED_FILE_FULL_PATH = os.path.join(SCRIPT_DIR, FEED_FILE)
 
 # --- Constants for XML Namespace ---
 # Registering namespaces is necessary for correct XML output with iTunes tags
@@ -57,27 +64,26 @@ def get_mp3_metadata(filepath):
         return None, None
 
 
-def synchronize_feed(root_dir, channel):
+def synchronize_feed(channel):
     """
     Synchronizes the feed by removing entries where the corresponding MP3 file
-    is missing from the repository root directory.
+    is missing from the repository root directory (SCRIPT_DIR).
     """
     print("Starting synchronization: Checking for deleted MP3 files...")
 
-    # 1. Get list of actual MP3 files in the repository root (excluding the upload temp dir)
-    actual_mp3_files = {f for f in os.listdir(root_dir) if f.lower().endswith('.mp3') and f != NEW_AUDIO_DIR}
+    # 1. Get list of actual MP3 files in the repository root
+    # Note: We check SCRIPT_DIR for files, excluding the upload temp directory name itself
+    actual_mp3_files = {f for f in os.listdir(SCRIPT_DIR) if f.lower().endswith('.mp3') and f != NEW_AUDIO_DIR}
 
     items_to_remove = []
 
     # 2. Iterate through items in the feed
-    # Need to iterate over a copy of the list because we might modify the channel
     for item in list(channel):
         if item.tag != 'item':
-            continue  # Skip non-item elements like title, link, etc.
+            continue
 
         enclosure = item.find('enclosure')
         if enclosure is not None:
-            # Extract filename from the enclosure URL
             url = enclosure.get('url')
 
             # 3. Extract the filename from the URL and check existence
@@ -104,14 +110,17 @@ def update_podcast_feed():
     """
     Main function to process new audio files, update feed.xml, and prepare for Git.
     """
-    if not os.path.exists(NEW_AUDIO_DIR):
-        os.makedirs(NEW_AUDIO_DIR)
+    # Check the upload directory using the absolute path
+    if not os.path.exists(NEW_AUDIO_FULL_PATH):
+        os.makedirs(NEW_AUDIO_FULL_PATH)
         print(f"Created directory '{NEW_AUDIO_DIR}'. Place MP3s inside it and run again.")
         return False
 
-    new_files = [f for f in os.listdir(NEW_AUDIO_DIR) if f.lower().endswith('.mp3')]
+    # List files from the correct path
+    new_files = [f for f in os.listdir(NEW_AUDIO_FULL_PATH) if f.lower().endswith('.mp3')]
 
-    if not os.path.exists(FEED_FILE):
+    # Check for feed file existence using the absolute path
+    if not os.path.exists(FEED_FILE_FULL_PATH):
         # If feed.xml doesn't exist, create a basic one. Synchronization skipped.
         print(f"'{FEED_FILE}' not found. Creating a minimal new feed structure.")
 
@@ -131,8 +140,8 @@ def update_podcast_feed():
 
         tree = ET.ElementTree(root)  # Initialize tree for later saving
     else:
-        # Load existing XML structure
-        tree = ET.parse(FEED_FILE)
+        # Load existing XML structure using the absolute path
+        tree = ET.parse(FEED_FILE_FULL_PATH)
         root = tree.getroot()
         channel = root.find('channel')
 
@@ -141,7 +150,7 @@ def update_podcast_feed():
             return False
 
         # --- STEP 1: Synchronize Feed (Remove deleted files) ---
-        synchronize_feed(os.getcwd(), channel)
+        synchronize_feed(channel)
 
     # --- STEP 2: Add New Files ---
     episodes_added = 0
@@ -151,7 +160,8 @@ def update_podcast_feed():
     existing_guids = {item.find('guid').text for item in channel.findall('item') if item.find('guid') is not None}
 
     for filename in new_files:
-        local_path = os.path.join(NEW_AUDIO_DIR, filename)
+        # Use the absolute path for the source file
+        local_path = os.path.join(NEW_AUDIO_FULL_PATH, filename)
 
         # --- Metadata Extraction ---
         file_size, duration_hms = get_mp3_metadata(local_path)
@@ -199,7 +209,8 @@ def update_podcast_feed():
         episodes_added += 1
 
         # --- Move File to Repository Root ---
-        dest_path = os.path.join(os.getcwd(), filename)
+        # Destination path uses the SCRIPT_DIR (the repository root)
+        dest_path = os.path.join(SCRIPT_DIR, filename)
         shutil.move(local_path, dest_path)
         print(f"Processed and moved: {filename}")
 
@@ -221,14 +232,14 @@ def update_podcast_feed():
     else:
         channel.append(last_build_date)
 
-    # 4. Save the updated XML
+    # 4. Save the updated XML using the absolute path
     # Prettify the XML (optional but nice)
     from xml.dom import minidom
     xml_string = ET.tostring(root, encoding='utf-8')
     pretty_xml = minidom.parseString(xml_string).toprettyxml(indent="  ")
 
     # Clean up empty lines created by minidom
-    with open(FEED_FILE, "w", encoding="utf-8") as f:
+    with open(FEED_FILE_FULL_PATH, "w", encoding="utf-8") as f:
         # Write only non-empty lines from prettified XML
         for line in pretty_xml.split('\n'):
             if line.strip():
@@ -240,23 +251,29 @@ def update_podcast_feed():
 
 def run_git_commands():
     """
-    Executes git add, commit, and push commands.
-    """
+        Executes git add, commit, and push commands.
+        Explicitly sets the current working directory (cwd) to the SCRIPT_DIR
+        to ensure Git runs within the repository root.
+        """
     try:
         print("\n--- Running Git Commands ---")
 
         # 1. Stage all changes (new files, moved files, updated feed.xml, deleted files)
-        subprocess.run(['git', 'add', '-A'], check=True, capture_output=True, text=True)  # Use -A to stage deletions
+        # Use cwd=SCRIPT_DIR
+        subprocess.run(['git', 'add', '-A'], check=True, capture_output=True, text=True, cwd=SCRIPT_DIR)
         print("Git: Staged all changes, including removals.")
 
         # 2. Commit
         commit_message = f"Automated podcast update: Synced feed, added new episodes."
-        subprocess.run(['git', 'commit', '-m', commit_message], check=True, capture_output=True, text=True)
+        # Use cwd=SCRIPT_DIR
+        subprocess.run(['git', 'commit', '-m', commit_message], check=True, capture_output=True, text=True,
+                       cwd=SCRIPT_DIR)
         print("Git: Committed changes.")
 
         # 3. Push
         print("Git: Pushing to remote...")
-        subprocess.run(['git', 'push', 'origin', 'main'], check=True, capture_output=True, text=True)
+        # Use cwd=SCRIPT_DIR
+        subprocess.run(['git', 'push', 'origin', 'main'], check=True, capture_output=True, text=True, cwd=SCRIPT_DIR)
         print("Git: Successfully pushed changes to GitHub!")
 
     except subprocess.CalledProcessError as e:
