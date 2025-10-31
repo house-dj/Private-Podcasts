@@ -3,15 +3,15 @@
   <channel>
     <title>My Private History Audio Feed</title>
     <link>https://github.com/house-dj/Private-Podcasts/</link>
-    <atom:link href="https://github.com/house-dj/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <itunes:image href="https://github.com/house-dj/Private-Podcasts/blob/main/art.jpg"/>
+    <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:author>My Name</itunes:author>
+    <itunes:author>JDH</itunes:author>
     <itunes:owner>
-      <itunes:name>My Name</itunes:name>
+      <itunes:name>JDHe</itunes:name>
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
     <lastBuildDate>Thu, 30 Oct 2025 12:00:00 +0000</lastBuildDate> 
@@ -22,7 +22,7 @@
       <description>Discussion of the kingdoms between 500 and 700 AD.</description>
       <guid isPermaLink="false">104-early-anglo-saxon</guid>
       <enclosure 
-        url="https://github.com/house-dj/Private-Podcasts/blob/main/104_British_History_Early_Anglo-Saxon_Kingdoms_500700_20251030-200235%2B0800_AUDIO.mp3"
+        url="https://house-dj.github.io/Private-Podcasts/104_British_History_Early_Anglo-Saxon_Kingdoms_500700_20251030-200235%2B0800_AUDIO.mp3"
         length="9278464" 
         type="audio/mpeg"
       />
@@ -36,7 +36,7 @@
       <description>Focus on the Viking incursions and the start of unification in England.</description>
       <guid isPermaLink="false">105-viking-unification</guid>
       <enclosure 
-        url="https://github.com/house-dj/Private-Podcasts/blob/main/105_British_History_Viking_Age_English_Unification_700900_20251030-200601%2B0800__AUDIO.mp3"
+        url="https://house-dj.github.io/Private-Podcasts/105_British_History_Viking_Age_English_Unification_700900_20251030-200601%2B0800__AUDIO.mp3"
         length="11538432" 
         type="audio/mpeg"
       />
@@ -45,4 +45,5 @@
     </item>
 
   </channel>
+
 </rss>
