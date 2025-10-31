@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Oct 2025 17:07:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Oct 2025 17:10:53 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -15,24 +15,6 @@
       <itunes:name>JDHe</itunes:name>
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
-    <item>
-      <title>107 British History Norman Conquest Settlement 10661154 20251031-132227+0800 SCRIPT  AUDIO</title>
-      <pubDate>Fri, 31 Oct 2025 17:07:28 +0000</pubDate>
-      <description>Automated upload for: 107 British History Norman Conquest Settlement 10661154 20251031-132227+0800 SCRIPT  AUDIO</description>
-      <guid isPermaLink="false">107</guid>
-      <enclosure url="https://house-dj.github.io/Private-Podcasts/107_British_History_Norman_Conquest_Settlement_10661154_20251031-132227+0800_SCRIPT__AUDIO.mp3" length="9424940" type="audio/mpeg"/>
-      <itunes:duration>39:16</itunes:duration>
-      <itunes:author>My Name</itunes:author>
-    </item>
-    <item>
-      <title>106 British History Late Anglo-Saxon Danish Kings 9001066 20251031-131918+0800 SCRIPT  AUDIO</title>
-      <pubDate>Fri, 31 Oct 2025 17:07:28 +0000</pubDate>
-      <description>Automated upload for: 106 British History Late Anglo-Saxon Danish Kings 9001066 20251031-131918+0800 SCRIPT  AUDIO</description>
-      <guid isPermaLink="false">106</guid>
-      <enclosure url="https://house-dj.github.io/Private-Podcasts/106_British_History_Late_Anglo-Saxon_Danish_Kings_9001066_20251031-131918+0800_SCRIPT__AUDIO.mp3" length="8549516" type="audio/mpeg"/>
-      <itunes:duration>35:37</itunes:duration>
-      <itunes:author>My Name</itunes:author>
-    </item>
     <item>
       <title>105 British History Viking Age English Unification 700900 20251030-200601+0800  AUDIO</title>
       <pubDate>Fri, 31 Oct 2025 17:07:28 +0000</pubDate>
