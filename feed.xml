@@ -44,7 +44,35 @@
       <itunes:author>My Name</itunes:author>
     </item>
 
+        <item>
+      <title>106: The Late Anglo-Saxon Period and Danish Kings 900 to 1066</title>
+      <pubDate>Thu, 30 Oct 2025 10:30:00 +0000</pubDate>
+      <description>The Late Anglo-Saxon Period and the Danish Kings of England</description>
+      <guid isPermaLink="false">106 The Late Anglo-Saxon Period</guid>
+      <enclosure 
+        url="https://house-dj.github.io/Private-Podcasts/106_British_History_Late_Anglo-Saxon_Danish_Kings_9001066_20251031-131918+0800_SCRIPT__AUDIO.mp3"
+        length="8350000" 
+        type="audio/mpeg"
+      />
+      <itunes:duration>33.55</itunes:duration> 
+      <itunes:author>My Name</itunes:author>
+    </item>
+
+      <item>
+      <title>107: The Norman Conquest and Settlement 1066 to 1154</title>
+      <pubDate>Thu, 30 Oct 2025 10:30:00 +0000</pubDate>
+      <description>The Norman_Conquest of England and Post-Conquest Settlement</description>
+      <guid isPermaLink="false">107 The Norman Conquest and Settlement 1066 to 1154</guid>
+      <enclosure 
+        url="https://house-dj.github.io/Private-Podcasts/107_British_History_Norman_Conquest_Settlement_10661154_20251031-132227+0800_SCRIPT__AUDIO.mp3"
+        length="9205000" 
+        type="audio/mpeg"
+      />
+      <itunes:duration>37.24</itunes:duration> 
+      <itunes:author>My Name</itunes:author>
+    </item>
   </channel>
 
 </rss>
+
 
