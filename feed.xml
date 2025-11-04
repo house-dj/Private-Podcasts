@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Nov 2025 13:36:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Nov 2025 13:36:56 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -15,5 +15,14 @@
       <itunes:name>JDHe</itunes:name>
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>105 British History Late Anglo-Saxon Danish Kings 900 to 1066 20251104-162650+0800 AUDIO</title>
+      <pubDate>Tue, 04 Nov 2025 13:36:56 +0000</pubDate>
+      <description>Automated upload for: 105 British History Late Anglo-Saxon Danish Kings 900 to 1066 20251104-162650+0800 AUDIO</description>
+      <guid isPermaLink="false">105</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/105_British_History_Late_Anglo-Saxon_Danish_Kings_900_to_1066_20251104-162650+0800_AUDIO.mp3" length="34564844" type="audio/mpeg"/>
+      <itunes:duration>36:00</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
   </channel>
 </rss>
