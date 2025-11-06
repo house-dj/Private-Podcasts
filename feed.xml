@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Nov 2025 07:14:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 10:19:32 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,15 @@
       <itunes:name>JDHe</itunes:name>
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>108 British History From Magna Carta to Black Death 1215 to 1350 20251106-142706+0800 SCRIPT  AUDIO</title>
+      <pubDate>Thu, 06 Nov 2025 10:19:32 +0000</pubDate>
+      <description>Automated upload for: 108 British History From Magna Carta to Black Death 1215 to 1350 20251106-142706+0800 SCRIPT  AUDIO</description>
+      <guid isPermaLink="false">108</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/108_British_History_From_Magna_Carta_to_Black_Death_1215_to_1350_20251106-142706+0800_SCRIPT__AUDIO.mp3" length="7103442" type="audio/mpeg"/>
+      <itunes:duration>29:35</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
     <item>
       <title>107 British History Angevin Empire Early Common Law 1154 to 1215 20251105-191216+0800 SCRIPT  AUDIO</title>
       <pubDate>Thu, 06 Nov 2025 07:14:26 +0000</pubDate>
