@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Nov 2025 04:07:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 07:14:26 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,24 @@
       <itunes:name>JDHe</itunes:name>
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>107 British History Angevin Empire Early Common Law 1154 to 1215 20251105-191216+0800 SCRIPT  AUDIO</title>
+      <pubDate>Thu, 06 Nov 2025 07:14:26 +0000</pubDate>
+      <description>Automated upload for: 107 British History Angevin Empire Early Common Law 1154 to 1215 20251105-191216+0800 SCRIPT  AUDIO</description>
+      <guid isPermaLink="false">107</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/107_British_History_Angevin_Empire_Early_Common_Law_1154_to_1215_20251105-191216+0800_SCRIPT__AUDIO.mp3" length="7506459" type="audio/mpeg"/>
+      <itunes:duration>31:16</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
+    <item>
+      <title>106 British History Norman Conquest Settlement 1066 to 1154 20251105-181308+0800 SCRIPT  AUDIO</title>
+      <pubDate>Thu, 06 Nov 2025 07:14:26 +0000</pubDate>
+      <description>Automated upload for: 106 British History Norman Conquest Settlement 1066 to 1154 20251105-181308+0800 SCRIPT  AUDIO</description>
+      <guid isPermaLink="false">106</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/106_British_History_Norman_Conquest_Settlement_1066_to_1154_20251105-181308+0800_SCRIPT__AUDIO.mp3" length="8463064" type="audio/mpeg"/>
+      <itunes:duration>35:15</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
     <item>
       <title>105 British History Late Anglo-Saxon Danish Kings 900 to 1066 20251104-162650+0800 AUDIO</title>
       <pubDate>Tue, 04 Nov 2025 13:36:56 +0000</pubDate>
