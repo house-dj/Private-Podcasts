@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Nov 2025 08:18:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Nov 2025 08:44:21 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,15 @@
       <itunes:name>JDHe</itunes:name>
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>110 British History Tudor State Reformations 1485 to 1547 20251107-155755+0800 SCRIPT  AUDIO</title>
+      <pubDate>Fri, 07 Nov 2025 08:44:21 +0000</pubDate>
+      <description>Automated upload for: 110 British History Tudor State Reformations 1485 to 1547 20251107-155755+0800 SCRIPT  AUDIO</description>
+      <guid isPermaLink="false">110</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/110_British_History_Tudor_State_Reformations_1485_to_1547_20251107-155755+0800_SCRIPT__AUDIO.mp3" length="7451289" type="audio/mpeg"/>
+      <itunes:duration>31:02</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
     <item>
       <title>109 British History Recovery War Change 1350 to 1485 20251107-155621+0800 SCRIPT  AUDIO</title>
       <pubDate>Fri, 07 Nov 2025 08:18:27 +0000</pubDate>
