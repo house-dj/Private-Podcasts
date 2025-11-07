@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Nov 2025 10:19:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Nov 2025 08:18:27 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,15 @@
       <itunes:name>JDHe</itunes:name>
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>109 British History Recovery War Change 1350 to 1485 20251107-155621+0800 SCRIPT  AUDIO</title>
+      <pubDate>Fri, 07 Nov 2025 08:18:27 +0000</pubDate>
+      <description>Automated upload for: 109 British History Recovery War Change 1350 to 1485 20251107-155621+0800 SCRIPT  AUDIO</description>
+      <guid isPermaLink="false">109</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/109_British_History_Recovery_War_Change_1350_to_1485_20251107-155621+0800_SCRIPT__AUDIO.mp3" length="8078541" type="audio/mpeg"/>
+      <itunes:duration>33:39</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
     <item>
       <title>108 British History From Magna Carta to Black Death 1215 to 1350 20251106-142706+0800 SCRIPT  AUDIO</title>
       <pubDate>Thu, 06 Nov 2025 10:19:32 +0000</pubDate>
