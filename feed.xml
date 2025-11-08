@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Nov 2025 05:30:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Nov 2025 06:56:36 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,15 @@
       <itunes:name>JDHe</itunes:name>
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>112 British History Early Stuarts Multiple Kingdoms 1603 to 1640 20251108-093004+0800 SCRIPT  AUDIO</title>
+      <pubDate>Sat, 08 Nov 2025 06:56:36 +0000</pubDate>
+      <description>Automated upload for: 112 British History Early Stuarts Multiple Kingdoms 1603 to 1640 20251108-093004+0800 SCRIPT  AUDIO</description>
+      <guid isPermaLink="false">112</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/112_British_History_Early_Stuarts_Multiple_Kingdoms_1603_to_1640_20251108-093004+0800_SCRIPT__AUDIO.mp3" length="9967090" type="audio/mpeg"/>
+      <itunes:duration>41:31</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
     <item>
       <title>111 British History Late Tudor Settlement 1547 to 1603 20251107-184541+0800 SCRIPT  AUDIO</title>
       <pubDate>Sat, 08 Nov 2025 01:10:59 +0000</pubDate>
