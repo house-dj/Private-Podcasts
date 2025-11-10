@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Nov 2025 15:42:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Nov 2025 15:58:09 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,15 @@
       <itunes:name>JDHe</itunes:name>
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>117 British History - Hanoverians, Enlightenment &amp; Empire (1714 to 1760)</title>
+      <pubDate>Mon, 10 Nov 2025 15:58:09 +0000</pubDate>
+      <description>The new Hanoverian dynasty secures Britain's throne, developing cabinet government and driving the nation's political and commercial expansion through the Enlightenment.</description>
+      <guid isPermaLink="false">117</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/117_British History Hanoverians Enlightenment  Empire 1714 to 1760 20251110-122013+0800.mp3" length="7774267" type="audio/mpeg"/>
+      <itunes:duration>32:23</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
     <item>
       <title>115 British History - Scotland 1000 to 1707 Kingdom Reformation and Union Debates</title>
       <pubDate>Mon, 10 Nov 2025 15:39:51 +0000</pubDate>
