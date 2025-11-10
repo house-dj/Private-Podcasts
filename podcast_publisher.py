@@ -86,6 +86,7 @@ def load_csv_metadata(csv_path):
             for row in reader:
                 # Use .get() for robustness
                 id_val = row.get('ID', '').strip()
+                category = row.get('Category', '').strip()
                 topic = row.get('Topic', '').strip()
                 description = row.get('Podcast Description', '').strip()
 
@@ -93,7 +94,8 @@ def load_csv_metadata(csv_path):
                     metadata[id_val] = {
                         'title': topic,
                         # Use the description if it exists, otherwise use a default fallback
-                        'description': description if description else f"Topic: {topic}"
+                        'description': description if description else f"Topic: {topic}",
+                        'category': category if category else ""
                     }
         print(f"Loaded metadata for {len(metadata)} topics from {os.path.basename(csv_path)}.")
         return metadata
@@ -220,7 +222,7 @@ def update_podcast_feed():
 
         if topic_data:
             # 3) Populate <title> from the Topic column of the row
-            title = topic_data['title']
+            title = guid + " " + topic_data['category'] + " - " + topic_data['title']
             # 4) Populate <description> from the Podcast Description column of the row
             description = topic_data['description']
             print(f"Matched ID {guid} to Topic: {title}")

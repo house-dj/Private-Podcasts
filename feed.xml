@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Nov 2025 09:55:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Nov 2025 10:07:58 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -15,24 +15,6 @@
       <itunes:name>JDHe</itunes:name>
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
-    <item>
-      <title>Restoration, Glorious Revolution and Stability (1660 to 1714)</title>
-      <pubDate>Mon, 10 Nov 2025 09:55:39 +0000</pubDate>
-      <description>The monarchy's Restoration yields to a &quot;Glorious Revolution&quot; that permanently limits royal power, establishing parliamentary supremacy and forging a new, financially stable British state.</description>
-      <guid isPermaLink="false">114</guid>
-      <enclosure url="https://house-dj.github.io/Private-Podcasts/114_British History Restoration Glorious Revolution and Stability 1660 to 1714 20251110-120912+0800.mp3" length="6802094" type="audio/mpeg"/>
-      <itunes:duration>28:20</itunes:duration>
-      <itunes:author>My Name</itunes:author>
-    </item>
-    <item>
-      <title>Civil Wars, Commonwealth and Protectorate (1640 to 1660)</title>
-      <pubDate>Mon, 10 Nov 2025 09:55:39 +0000</pubDate>
-      <description>The fatal collision between Charles I's divine right and parliamentary authority sparks civil war, leading to regicide, a republic, and the eventual military rule of Cromwell.</description>
-      <guid isPermaLink="false">113</guid>
-      <enclosure url="https://house-dj.github.io/Private-Podcasts/113_British History Civil Wars Commonwealth  Protectorate 1640 to 1660 20251110-120614+0800.mp3" length="7581797" type="audio/mpeg"/>
-      <itunes:duration>31:35</itunes:duration>
-      <itunes:author>My Name</itunes:author>
-    </item>
     <item>
       <title>112 British History Early Stuarts Multiple Kingdoms 1603 to 1640 20251108-093004+0800 SCRIPT  AUDIO</title>
       <pubDate>Sat, 08 Nov 2025 06:56:36 +0000</pubDate>
