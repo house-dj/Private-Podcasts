@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Nov 2025 10:29:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Nov 2025 10:36:16 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -31,15 +31,6 @@
       <guid isPermaLink="false">113</guid>
       <enclosure url="https://house-dj.github.io/Private-Podcasts/113_British History Civil Wars Commonwealth  Protectorate 1640 to 1660 20251110-120614+0800.mp3" length="7581797" type="audio/mpeg"/>
       <itunes:duration>31:35</itunes:duration>
-      <itunes:author>My Name</itunes:author>
-    </item>
-    <item>
-      <title>112 British History - Early Stuarts Multiple Kingdoms 1603 to 1640</title>
-      <pubDate>Sat, 08 Nov 2025 06:56:36 +0000</pubDate>
-      <description>The new Stuart dynasty of King James I and his son Charles play power games with Parliament amid ongoing sectarian tensions.</description>
-      <guid isPermaLink="false">112</guid>
-      <enclosure url="https://house-dj.github.io/Private-Podcasts/112_British_History_Early_Stuarts_Multiple_Kingdoms_1603_to_1640_20251108-093004+0800_SCRIPT__AUDIO.mp3" length="9967090" type="audio/mpeg"/>
-      <itunes:duration>41:31</itunes:duration>
       <itunes:author>My Name</itunes:author>
     </item>
     <item>
