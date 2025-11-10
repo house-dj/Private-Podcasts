@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Nov 2025 03:29:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Nov 2025 09:07:23 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,24 @@
       <itunes:name>JDHe</itunes:name>
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>114 British History Restoration Glorious Revolution and Stability 1660 to 1714 20251110-120912+0800</title>
+      <pubDate>Mon, 10 Nov 2025 09:07:23 +0000</pubDate>
+      <description>Automated upload for: 114 British History Restoration Glorious Revolution and Stability 1660 to 1714 20251110-120912+0800</description>
+      <guid isPermaLink="false">114 British History Restoration Glorious Revolution and Stability 1660 to 1714 20251110-120912+0800.mp3</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/114 British History Restoration Glorious Revolution and Stability 1660 to 1714 20251110-120912+0800.mp3" length="6802094" type="audio/mpeg"/>
+      <itunes:duration>28:20</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
+    <item>
+      <title>113 British History Civil Wars Commonwealth  Protectorate 1640 to 1660 20251110-120614+0800</title>
+      <pubDate>Mon, 10 Nov 2025 09:07:23 +0000</pubDate>
+      <description>Automated upload for: 113 British History Civil Wars Commonwealth  Protectorate 1640 to 1660 20251110-120614+0800</description>
+      <guid isPermaLink="false">113 British History Civil Wars Commonwealth  Protectorate 1640 to 1660 20251110-120614+0800.mp3</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/113 British History Civil Wars Commonwealth  Protectorate 1640 to 1660 20251110-120614+0800.mp3" length="7581797" type="audio/mpeg"/>
+      <itunes:duration>31:35</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
     <item>
       <title>112 British History Early Stuarts Multiple Kingdoms 1603 to 1640 20251108-093004+0800 SCRIPT  AUDIO</title>
       <pubDate>Sat, 08 Nov 2025 06:56:36 +0000</pubDate>

@@ -3,6 +3,7 @@ import datetime
 import subprocess
 import shutil
 import xml.etree.ElementTree as ET
+import csv  # <--- ADDED: Import for CSV handling
 from mutagen.mp3 import MP3
 
 # --- Configuration ---
@@ -15,12 +16,16 @@ BASE_URL = "https://house-dj.github.io/Private-Podcasts/"
 NEW_AUDIO_DIR = "_new_uploads"
 # Name of the RSS feed file
 FEED_FILE = "feed.xml"
+# Name of the topics CSV file
+TOPICS_CSV_FILE = ("C:/Users/jdhou/PycharmProjects/ReportGenerator/Generate Text Scripts/reference files/"
+                   "topics.csv")  # <--- ADDED: CSV filename constant
 # Repository details for Git commands
 REPO_NAME = "Private-Podcasts"
 
 # Construct absolute paths for reliable file access
 NEW_AUDIO_FULL_PATH = os.path.join(SCRIPT_DIR, NEW_AUDIO_DIR)
 FEED_FILE_FULL_PATH = os.path.join(SCRIPT_DIR, FEED_FILE)
+TOPICS_CSV_FULL_PATH = os.path.join(SCRIPT_DIR, TOPICS_CSV_FILE)  # <--- ADDED: CSV full path constant
 
 # --- Constants for XML Namespace ---
 # Registering namespaces is necessary for correct XML output with iTunes tags
@@ -62,6 +67,39 @@ def get_mp3_metadata(filepath):
     except Exception as e:
         print(f"Error reading metadata for {filepath}: {e}")
         return None, None
+
+
+# --- ADDED: Function to load metadata from topics.csv ---
+def load_csv_metadata(csv_path):
+    """
+    Loads metadata from the topics CSV file into a dictionary mapping ID to details.
+    Expected columns: ID, Topic, Podcast Description.
+    """
+    metadata = {}
+    if not os.path.exists(csv_path):
+        print(f"Warning: Topics CSV file not found at {csv_path}. Cannot enrich metadata.")
+        return metadata
+
+    try:
+        with open(csv_path, 'r', encoding='utf-8') as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                # Use .get() for robustness
+                id_val = row.get('ID', '').strip()
+                topic = row.get('Topic', '').strip()
+                description = row.get('Podcast Description', '').strip()
+
+                if id_val:
+                    metadata[id_val] = {
+                        'title': topic,
+                        # Use the description if it exists, otherwise use a default fallback
+                        'description': description if description else f"Topic: {topic}"
+                    }
+        print(f"Loaded metadata for {len(metadata)} topics from {os.path.basename(csv_path)}.")
+        return metadata
+    except Exception as e:
+        print(f"Error reading or parsing {csv_path}: {e}")
+        return {}
 
 
 def synchronize_feed(channel):
@@ -119,6 +157,9 @@ def update_podcast_feed():
     # List files from the correct path
     new_files = [f for f in os.listdir(NEW_AUDIO_FULL_PATH) if f.lower().endswith('.mp3')]
 
+    # --- ADDED: Load topic data from CSV ---
+    topic_metadata = load_csv_metadata(TOPICS_CSV_FULL_PATH)
+
     # Check for feed file existence using the absolute path
     if not os.path.exists(FEED_FILE_FULL_PATH):
         # If feed.xml doesn't exist, create a basic one. Synchronization skipped.
@@ -174,8 +215,20 @@ def update_podcast_feed():
             print(f"Skipping '{filename}': GUID '{guid}' already exists in feed.xml.")
             continue
 
-        # Clean up title for the feed
-        title = filename.replace('.mp3', '').replace('_', ' ').strip()
+        # --- MODIFIED: Lookup title and description from CSV metadata ---
+        topic_data = topic_metadata.get(guid)
+
+        if topic_data:
+            # 3) Populate <title> from the Topic column of the row
+            title = topic_data['title']
+            # 4) Populate <description> from the Podcast Description column of the row
+            description = topic_data['description']
+            print(f"Matched ID {guid} to Topic: {title}")
+        else:
+            # Fallback to current script logic (clean filename)
+            title = filename.replace('.mp3', '').replace('_', ' ').strip()
+            description = f"Automated upload for: {title}"
+            print(f"ID {guid} not found in CSV. Using default title/description.")
 
         # Set publish date to now in RFC 822 format (e.g., Thu, 30 Oct 2025 10:00:00 +0000)
         pub_date = datetime.datetime.now(datetime.timezone.utc).strftime('%a, %d %b %Y %H:%M:%S +0000')
@@ -183,9 +236,9 @@ def update_podcast_feed():
         # --- Create XML Item ---
         item = ET.Element('item')
 
-        ET.SubElement(item, 'title').text = title
+        ET.SubElement(item, 'title').text = title  # Uses looked-up title
         ET.SubElement(item, 'pubDate').text = pub_date
-        ET.SubElement(item, 'description').text = f"Automated upload for: {title}"  # Default description
+        ET.SubElement(item, 'description').text = description  # Uses looked-up description
 
         # Add GUID
         ET.SubElement(item, 'guid', attrib={'isPermaLink': 'false'}).text = guid
