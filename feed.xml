@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Nov 2025 16:22:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Nov 2025 13:41:14 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,24 @@
       <itunes:name>JDHe</itunes:name>
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>119 British History - The British Empire (1600 to 1800)</title>
+      <pubDate>Tue, 11 Nov 2025 13:41:14 +0000</pubDate>
+      <description>Explore how the British Empire rose from an obscure island nation to global power through relentless conflict, trade, and slavery.</description>
+      <guid isPermaLink="false">119</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/119_British History The British Empire 1600 to 1800 20251111-152129+0800.mp3" length="8669849" type="audio/mpeg"/>
+      <itunes:duration>36:07</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
+    <item>
+      <title>118 British History - Industrial Takeoff and War with France (1760 to 1815)</title>
+      <pubDate>Tue, 11 Nov 2025 13:41:14 +0000</pubDate>
+      <description>Britain undergoes rapid industrial transformation and urban change while simultaneously engaging in a decades-long struggle for survival against Revolutionary France.</description>
+      <guid isPermaLink="false">118</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/118_British History Industrial Takeoff  War with France 1760 to 1815 20251110-122330+0800.mp3" length="7481173" type="audio/mpeg"/>
+      <itunes:duration>31:10</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
     <item>
       <title>117 British History - Hanoverians, Enlightenment &amp; Empire (1714 to 1760)</title>
       <pubDate>Mon, 10 Nov 2025 16:22:00 +0000</pubDate>
