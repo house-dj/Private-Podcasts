@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Nov 2025 13:41:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Nov 2025 08:28:37 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,33 @@
       <itunes:name>JDHe</itunes:name>
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>123 British History - The British Empire (1801 to 1918)</title>
+      <pubDate>Wed, 12 Nov 2025 08:28:37 +0000</pubDate>
+      <description>Journey through the British Empire's global zenith (1801-1918), confronting industrial might, fierce conflicts, and the strains of World War One.</description>
+      <guid isPermaLink="false">123</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/123_British History The British Empire 1801 to 1918 20251112-135420+0800.mp3" length="9901052" type="audio/mpeg"/>
+      <itunes:duration>41:15</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
+    <item>
+      <title>122 British History - Edwardian Britain and WWI (1900 to 1918)</title>
+      <pubDate>Wed, 12 Nov 2025 08:28:37 +0000</pubDate>
+      <description>Journey through Edwardian Britain's confident facade and mounting tensions, to its ultimate, transformative plunge into the Great War's devastation.</description>
+      <guid isPermaLink="false">122</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/122_British History Edwardian Britain and WWI 1900 to 1918 20251112-135023+0800.mp3" length="11538407" type="audio/mpeg"/>
+      <itunes:duration>48:04</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
+    <item>
+      <title>120 British History - Reform, Victorian Society and Empire (1815 to 1850)</title>
+      <pubDate>Wed, 12 Nov 2025 08:28:37 +0000</pubDate>
+      <description>Unpack Britain's tumultuous path from post-Napoleonic distress to a reforming society and burgeoning global empire (1815-1850).</description>
+      <guid isPermaLink="false">120</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/120_British History Reform Victorian Society and Empire 1815 to 1850 20251112-134600+0800.mp3" length="11526809" type="audio/mpeg"/>
+      <itunes:duration>48:01</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
     <item>
       <title>119 British History - The British Empire (1600 to 1800)</title>
       <pubDate>Tue, 11 Nov 2025 13:41:14 +0000</pubDate>
