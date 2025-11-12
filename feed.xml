@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Nov 2025 08:40:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Nov 2025 09:24:00 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,15 @@
       <itunes:name>JDHe</itunes:name>
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>24 European History - Carolingians and the Frankish Realm, 750 to 987</title>
+      <pubDate>Wed, 12 Nov 2025 09:24:00 +0000</pubDate>
+      <description>Discover how the Carolingians rose from Frankish mayors to emperors, then fractured their realm, fundamentally shaping medieval Europe.</description>
+      <guid isPermaLink="false">24</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/24_European History Carolingians and the Frankish Realm 750 to 987 20251112-135606+0800.mp3" length="8094633" type="audio/mpeg"/>
+      <itunes:duration>33:43</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
     <item>
       <title>123 British History - The British Empire (1801 to 1918)</title>
       <pubDate>Wed, 12 Nov 2025 08:28:37 +0000</pubDate>
