@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Nov 2025 08:34:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Nov 2025 12:43:15 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,15 @@
       <itunes:name>JDHe</itunes:name>
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>121 British History - High Victorian Britain (1850 to 1900)</title>
+      <pubDate>Fri, 14 Nov 2025 12:43:15 +0000</pubDate>
+      <description>Britain's High Victorian era was a paradox of unparalleled imperial power, industrial might, and deep social and political anxieties.</description>
+      <guid isPermaLink="false">121</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/121_British History High Victorian Britain 1850 to 1900 20251113-142632+0800.mp3" length="4694953" type="audio/mpeg"/>
+      <itunes:duration>19:33</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
     <item>
       <title>122 British History - Edwardian Britain and WWI (1900 to 1918)</title>
       <pubDate>Fri, 14 Nov 2025 08:34:37 +0000</pubDate>
