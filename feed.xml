@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Nov 2025 08:02:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Nov 2025 08:04:04 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,15 @@
       <itunes:name>JDHe</itunes:name>
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>120 British History - Reform, Victorian Society and Empire (1815 to 1850)</title>
+      <pubDate>Fri, 14 Nov 2025 08:04:04 +0000</pubDate>
+      <description>Britain between 1815 and 1850 was forged by political reform, industrial growth, and social upheaval, all within a burgeoning empire.</description>
+      <guid isPermaLink="false">120</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/120_British History Reform Victorian Society and Empire 1815 to 1850 20251113-133231+0800.mp3" length="8842257" type="audio/mpeg"/>
+      <itunes:duration>36:50</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
     <item>
       <title>113 British History Civil Wars Commonwealth  Protectorate 1640 to 1660 20251110-120614+0800 SCRIPT SHORTENED SCRIPT unedited</title>
       <pubDate>Fri, 14 Nov 2025 07:57:46 +0000</pubDate>
