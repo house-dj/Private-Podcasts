@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Nov 2025 08:19:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 09:27:38 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,24 @@
       <itunes:name>JDHe</itunes:name>
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>25 European History - The Viking Age, 750 to 1050: Expansion, Trade, and Transformation</title>
+      <pubDate>Tue, 18 Nov 2025 09:27:38 +0000</pubDate>
+      <description>The Vikings arise from nowhere to shape medieval Europe through expansion, trade, violent raiding and political ambition.</description>
+      <guid isPermaLink="false">25</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/25_European History The Viking Age 750 to 1050 Expansion Trade and Transformation 20251113-150519+0800.mp3" length="15392600" type="audio/mpeg"/>
+      <itunes:duration>42:45</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
+    <item>
+      <title>24 European History - Carolingians and the Frankish Realm, 750 to 987</title>
+      <pubDate>Tue, 18 Nov 2025 09:27:38 +0000</pubDate>
+      <description>The Carolingians rise from Frankish mayors to emperors, then fractured their realm, fundamentally shaping medieval Europe.</description>
+      <guid isPermaLink="false">24</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/24_European History Carolingians and the Frankish Realm 750 to 987 20251113-145522+0800.mp3" length="16254440" type="audio/mpeg"/>
+      <itunes:duration>45:09</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
     <item>
       <title>20 Late Antiquity History - The Post-Roman Kingdoms, 500 to 800 CE</title>
       <pubDate>Tue, 18 Nov 2025 08:19:53 +0000</pubDate>
