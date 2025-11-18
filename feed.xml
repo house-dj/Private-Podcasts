@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Nov 2025 08:02:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 08:19:53 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,15 @@
       <itunes:name>JDHe</itunes:name>
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>20 Late Antiquity History - The Post-Roman Kingdoms, 500 to 800 CE</title>
+      <pubDate>Tue, 18 Nov 2025 08:19:53 +0000</pubDate>
+      <description>Western Europe between 500 and 800 transformed from imperial ruin into a patchwork of Germanic kingdoms, where Roman traditions, Christian authority, and new political powers forged the foundations of medieval society.</description>
+      <guid isPermaLink="false">20</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/20_Late Antiquity History The Post-Roman Kingdoms 500 to 800 CE 20251111-231437+0800.mp3" length="10681424" type="audio/mpeg"/>
+      <itunes:duration>29:40</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
     <item>
       <title>123 British History - The British Empire (1801 to 1918)</title>
       <pubDate>Tue, 18 Nov 2025 06:13:43 +0000</pubDate>
