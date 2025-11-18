@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Nov 2025 16:32:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 06:13:43 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,15 @@
       <itunes:name>JDHe</itunes:name>
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>123 British History - The British Empire (1801 to 1918)</title>
+      <pubDate>Tue, 18 Nov 2025 06:13:43 +0000</pubDate>
+      <description>Britain forged global dominance from 1801 to 1918, reaching its peak amidst rising nationalism and World War I's devastating costs.</description>
+      <guid isPermaLink="false">123</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/123_British History The British Empire 1801 to 1918 20251113-143931+0800.mp3" length="13546232" type="audio/mpeg"/>
+      <itunes:duration>37:37</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
     <item>
       <title>121 British History - High Victorian Britain (1850 to 1900)</title>
       <pubDate>Mon, 17 Nov 2025 16:27:40 +0000</pubDate>
