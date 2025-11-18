@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Nov 2025 06:13:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 08:02:38 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -49,24 +49,6 @@
       <guid isPermaLink="false">120</guid>
       <enclosure url="https://house-dj.github.io/Private-Podcasts/120_British History Reform Victorian Society and Empire 1815 to 1850 20251113-133231+0800.mp3" length="8842257" type="audio/mpeg"/>
       <itunes:duration>36:50</itunes:duration>
-      <itunes:author>My Name</itunes:author>
-    </item>
-    <item>
-      <title>113 British History Civil Wars Commonwealth  Protectorate 1640 to 1660 20251110-120614+0800 SCRIPT SHORTENED SCRIPT unedited</title>
-      <pubDate>Fri, 14 Nov 2025 07:57:46 +0000</pubDate>
-      <description>Automated upload for: 113 British History Civil Wars Commonwealth  Protectorate 1640 to 1660 20251110-120614+0800 SCRIPT SHORTENED SCRIPT unedited</description>
-      <guid isPermaLink="false">113 British History Civil Wars Commonwealth  Protectorate 1640 to 1660 20251110-120614+0800</guid>
-      <enclosure url="https://house-dj.github.io/Private-Podcasts/113 British History Civil Wars Commonwealth  Protectorate 1640 to 1660 20251110-120614+0800_SCRIPT_SHORTENED_SCRIPT_unedited.mp3" length="4156935" type="audio/mpeg"/>
-      <itunes:duration>17:19</itunes:duration>
-      <itunes:author>My Name</itunes:author>
-    </item>
-    <item>
-      <title>113 British History Civil Wars Commonwealth  Protectorate 1640 to 1660 20251110-120614+0800 SCRIPT SHORTENED</title>
-      <pubDate>Fri, 14 Nov 2025 07:57:46 +0000</pubDate>
-      <description>Automated upload for: 113 British History Civil Wars Commonwealth  Protectorate 1640 to 1660 20251110-120614+0800 SCRIPT SHORTENED</description>
-      <guid isPermaLink="false">113 British History Civil Wars Commonwealth  Protectorate 1640 to 1660 20251110-120614+0800</guid>
-      <enclosure url="https://house-dj.github.io/Private-Podcasts/113 British History Civil Wars Commonwealth  Protectorate 1640 to 1660 20251110-120614+0800_SCRIPT_SHORTENED.mp3" length="4218897" type="audio/mpeg"/>
-      <itunes:duration>17:34</itunes:duration>
       <itunes:author>My Name</itunes:author>
     </item>
     <item>
