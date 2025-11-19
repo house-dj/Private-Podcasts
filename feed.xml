@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Nov 2025 09:27:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 06:24:48 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,15 @@
       <itunes:name>JDHe</itunes:name>
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>126 American Hemisphere Pre-Columbian Americas circa 1500 BCE to 1500 CE 20251118-142211+0800</title>
+      <pubDate>Wed, 19 Nov 2025 06:24:48 +0000</pubDate>
+      <description>Automated upload for: 126 American Hemisphere Pre-Columbian Americas circa 1500 BCE to 1500 CE 20251118-142211+0800</description>
+      <guid isPermaLink="false">126</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/126_American Hemisphere Pre-Columbian Americas circa 1500 BCE to 1500 CE 20251118-142211+0800.mp3" length="13733540" type="audio/mpeg"/>
+      <itunes:duration>38:08</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
     <item>
       <title>25 European History - The Viking Age, 750 to 1050: Expansion, Trade, and Transformation</title>
       <pubDate>Tue, 18 Nov 2025 09:27:38 +0000</pubDate>
