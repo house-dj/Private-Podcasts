@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Nov 2025 06:32:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Nov 2025 10:31:00 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,24 @@
       <itunes:name>JDHe</itunes:name>
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>27 European History - The Crusades (1095 to 1291)</title>
+      <pubDate>Thu, 20 Nov 2025 10:31:00 +0000</pubDate>
+      <description>The Crusades unfolded as a collision of sanctified warfare, shifting power in the Islamic world, and evolving European ambitions that remade both regions.</description>
+      <guid isPermaLink="false">27</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/27_European History The Crusades 1095 to 1291 20251112-194105+0800.mp3" length="12516560" type="audio/mpeg"/>
+      <itunes:duration>34:46</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
+    <item>
+      <title>26 European History - High Medieval Christendom, 800 to 1250: Church, Empire, and Feudal Order</title>
+      <pubDate>Thu, 20 Nov 2025 10:31:00 +0000</pubDate>
+      <description>Christendom between 800 and 1250 was forged through imperial collapse, feudal realignment, church reform, and the rise of monarchies that anchored a new European order.</description>
+      <guid isPermaLink="false">26</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/26_European History High Medieval Christendom 800 to 1250 Church Empire and Feudal Order 20251113-151357+0800.mp3" length="19207808" type="audio/mpeg"/>
+      <itunes:duration>53:21</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
     <item>
       <title>126 American Hemisphere - Pre-Columbian Americas (circa 1500 BCE to 1500 CE)</title>
       <pubDate>Wed, 19 Nov 2025 06:32:14 +0000</pubDate>
@@ -202,15 +220,6 @@
       <guid isPermaLink="false">106</guid>
       <enclosure url="https://house-dj.github.io/Private-Podcasts/106_British_History_Norman_Conquest_Settlement_1066_to_1154_20251105-181308+0800_SCRIPT__AUDIO.mp3" length="8463064" type="audio/mpeg"/>
       <itunes:duration>35:15</itunes:duration>
-      <itunes:author>My Name</itunes:author>
-    </item>
-    <item>
-      <title>105 British History Late Anglo-Saxon Danish Kings 900 to 1066 20251104-162650+0800 AUDIO</title>
-      <pubDate>Tue, 04 Nov 2025 13:36:56 +0000</pubDate>
-      <description>Automated upload for: 105 British History Late Anglo-Saxon Danish Kings 900 to 1066 20251104-162650+0800 AUDIO</description>
-      <guid isPermaLink="false">105</guid>
-      <enclosure url="https://house-dj.github.io/Private-Podcasts/105_British_History_Late_Anglo-Saxon_Danish_Kings_900_to_1066_20251104-162650+0800_AUDIO.mp3" length="34564844" type="audio/mpeg"/>
-      <itunes:duration>36:00</itunes:duration>
       <itunes:author>My Name</itunes:author>
     </item>
   </channel>
