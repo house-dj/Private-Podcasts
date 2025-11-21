@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Nov 2025 10:31:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Nov 2025 11:00:55 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,60 @@
       <itunes:name>JDHe</itunes:name>
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>33 European History The Thirty Years War 1618 to 1648 20251118-183416+0800</title>
+      <pubDate>Fri, 21 Nov 2025 11:00:55 +0000</pubDate>
+      <description>Automated upload for: 33 European History The Thirty Years War 1618 to 1648 20251118-183416+0800</description>
+      <guid isPermaLink="false">33</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/33_European History The Thirty Years War 1618 to 1648 20251118-183416+0800.mp3" length="16560296" type="audio/mpeg"/>
+      <itunes:duration>46:00</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
+    <item>
+      <title>32 European History - Empires and Rivalries: Habsburgs, Valois, and the Age of Religious Wars (1500 to 1650)</title>
+      <pubDate>Fri, 21 Nov 2025 11:00:55 +0000</pubDate>
+      <description>Habsburg and Valois dynastic rivalries ignited an age of religious wars, shattering old orders and forging a new European system.</description>
+      <guid isPermaLink="false">32</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/32_European History Empires and Rivalries Habsburgs Valois and the Age of Religious Wars 1500 to 1650 20251118-194304+0800.mp3" length="12033152" type="audio/mpeg"/>
+      <itunes:duration>33:25</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
+    <item>
+      <title>31 European History - Northern Renaissance and Reformations (1450 to 1600)</title>
+      <pubDate>Fri, 21 Nov 2025 11:00:55 +0000</pubDate>
+      <description>The Northern Renaissance and Reformations irrevocably altered Europe's spiritual and political landscape, ushering in centuries of conflict and new states.</description>
+      <guid isPermaLink="false">31</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/31_European History Northern Renaissance and Reformations 1450 to 1600 20251118-182908+0800.mp3" length="13072112" type="audio/mpeg"/>
+      <itunes:duration>36:18</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
+    <item>
+      <title>30 European History - The Italian Renaissance (1350 to 1550)</title>
+      <pubDate>Fri, 21 Nov 2025 11:00:55 +0000</pubDate>
+      <description>Amidst political turmoil and foreign wars, the Italian Renaissance ignited a cultural rebirth, redefining art, thought, and human potential.</description>
+      <guid isPermaLink="false">30</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/30_European History The Italian Renaissance 1350 to 1550 20251121-171843+0800.mp3" length="14358392" type="audio/mpeg"/>
+      <itunes:duration>39:53</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
+    <item>
+      <title>29 European History - Late Medieval Crisis and Renewal, 1250 to 1450</title>
+      <pubDate>Fri, 21 Nov 2025 11:00:55 +0000</pubDate>
+      <description>Europe between 1250 and 1450 was reshaped by famine, plague, war, and religious fracture, yet these traumas forged the conditions for political consolidation and early modern renewal.</description>
+      <guid isPermaLink="false">29</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/29_European History Late Medieval Crisis and Renewal 1250 to 1450 20251112-195048+0800.mp3" length="13800680" type="audio/mpeg"/>
+      <itunes:duration>38:20</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
+    <item>
+      <title>28 European History - The Rise of Medieval Europe's Cities and Trade, 1000 to 1350</title>
+      <pubDate>Fri, 21 Nov 2025 11:00:55 +0000</pubDate>
+      <description>Medieval Europe from 1000 to 1350 was transformed by urban growth, expanding trade networks, and new commercial institutions that redefined economic and social life.</description>
+      <guid isPermaLink="false">28</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/28_European History The Rise of Medieval Europe s Cities and Trade 1000 to 1350 20251112-194627+0800.mp3" length="12374216" type="audio/mpeg"/>
+      <itunes:duration>34:22</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
     <item>
       <title>27 European History - The Crusades (1095 to 1291)</title>
       <pubDate>Thu, 20 Nov 2025 10:31:00 +0000</pubDate>
