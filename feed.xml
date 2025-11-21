@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Nov 2025 11:27:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Nov 2025 11:30:53 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,60 @@
       <itunes:name>JDHe</itunes:name>
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>111 British History - Late Tudor Settlement (1547 to 1603)</title>
+      <pubDate>Fri, 21 Nov 2025 11:30:53 +0000</pubDate>
+      <description>Religious identity violently oscillates under Edward and Mary, culminating in Elizabeth I's settlement, securing Protestant England against Catholic threats and ushering in a golden age.</description>
+      <guid isPermaLink="false">111</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/111_British_History_Late_Tudor_Settlement_1547_to_1603_20251107-184541+0800_SCRIPT__AUDIO.mp3" length="9737108" type="audio/mpeg"/>
+      <itunes:duration>40:34</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
+    <item>
+      <title>110 British History - Tudor State and Reformations (1485 to 1547)</title>
+      <pubDate>Fri, 21 Nov 2025 11:30:53 +0000</pubDate>
+      <description>Henry VII secures the Tudor dynasty before Henry VIII's quest for an heir ruptures the Church, establishing royal supremacy and fundamentally reforming the English state.</description>
+      <guid isPermaLink="false">110</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/110_British_History_Tudor_State_Reformations_1485_to_1547_20251107-155755+0800_SCRIPT__AUDIO.mp3" length="7451289" type="audio/mpeg"/>
+      <itunes:duration>31:02</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
+    <item>
+      <title>109 British History - Recovery, War and Change (1350 to 1485)</title>
+      <pubDate>Fri, 21 Nov 2025 11:30:53 +0000</pubDate>
+      <description>Late medieval England was reshaped by demographic recovery, social unrest, the Hundred Years' War, and the dynastic struggles culminating in the rise of the Tudors.</description>
+      <guid isPermaLink="false">109</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/109_British_History_Recovery_War_Change_1350_to_1485_20251107-155621+0800_SCRIPT__AUDIO.mp3" length="8078541" type="audio/mpeg"/>
+      <itunes:duration>33:39</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
+    <item>
+      <title>108 British History - From Magna Carta to Black Death (1215 to 1350)</title>
+      <pubDate>Fri, 21 Nov 2025 11:30:53 +0000</pubDate>
+      <description>England's political order evolved through baronial conflict, legal reform, expanding Parliament, and the shattering demographic and economic impact of the Black Death.</description>
+      <guid isPermaLink="false">108</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/108_British_History_From_Magna_Carta_to_Black_Death_1215_to_1350_20251106-142706+0800_SCRIPT__AUDIO.mp3" length="7103442" type="audio/mpeg"/>
+      <itunes:duration>29:35</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
+    <item>
+      <title>107 British History - Angevin Empire and Early Common Law (1154 to 1215)</title>
+      <pubDate>Fri, 21 Nov 2025 11:30:53 +0000</pubDate>
+      <description>The Angevin era fused continental empire-building with legal innovation, producing centralized royal justice and culminating in the constitutional crisis that yielded Magna Carta.</description>
+      <guid isPermaLink="false">107</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/107_British_History_Angevin_Empire_Early_Common_Law_1154_to_1215_20251105-191216+0800_SCRIPT__AUDIO.mp3" length="7506459" type="audio/mpeg"/>
+      <itunes:duration>31:16</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
+    <item>
+      <title>106 British History - Norman Conquest and Settlement (1066 to 1154)</title>
+      <pubDate>Fri, 21 Nov 2025 11:30:53 +0000</pubDate>
+      <description>The Norman Conquest reshaped England through military domination, feudal restructuring, castle building, and sweeping administrative and ecclesiastical transformation.</description>
+      <guid isPermaLink="false">106</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/106_British_History_Norman_Conquest_Settlement_1066_to_1154_20251105-181308+0800_SCRIPT__AUDIO.mp3" length="8463064" type="audio/mpeg"/>
+      <itunes:duration>35:15</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
     <item>
       <title>33 European History - The Thirty Years' War (1618 to 1648)</title>
       <pubDate>Fri, 21 Nov 2025 11:21:54 +0000</pubDate>
