@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Nov 2025 11:18:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Nov 2025 11:19:51 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -15,15 +15,6 @@
       <itunes:name>JDHe</itunes:name>
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
-    <item>
-      <title>33 European History The Thirty Years War 1618 to 1648 20251118-183416+0800</title>
-      <pubDate>Fri, 21 Nov 2025 11:18:15 +0000</pubDate>
-      <description>Automated upload for: 33 European History The Thirty Years War 1618 to 1648 20251118-183416+0800</description>
-      <guid isPermaLink="false">33</guid>
-      <enclosure url="https://house-dj.github.io/Private-Podcasts/33_European History The Thirty Years War 1618 to 1648 20251118-183416+0800.mp3" length="16560296" type="audio/mpeg"/>
-      <itunes:duration>46:00</itunes:duration>
-      <itunes:author>My Name</itunes:author>
-    </item>
     <item>
       <title>32 European History - Empires and Rivalries: Habsburgs, Valois, and the Age of Religious Wars (1500 to 1650)</title>
       <pubDate>Fri, 21 Nov 2025 11:00:55 +0000</pubDate>
