@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Nov 2025 09:52:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Nov 2025 06:43:18 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,15 @@
       <itunes:name>JDHe</itunes:name>
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>35 European History - France and the Age of Absolutism (1600 to 1789)</title>
+      <pubDate>Tue, 25 Nov 2025 06:43:18 +0000</pubDate>
+      <description>Contrary to trends in Britain, France entered its Age of Absolutism, from the consolidation of royal power under Louis XIV to the systemic failures that triggered the 1789 Revolution.</description>
+      <guid isPermaLink="false">35</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/35_European History France and the Age of Absolutism 1600 to 1789 20251119-202806+0800.mp3" length="15458696" type="audio/mpeg"/>
+      <itunes:duration>42:56</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
     <item>
       <title>111 British History - Late Tudor Settlement (1547 to 1603)</title>
       <pubDate>Fri, 21 Nov 2025 11:30:53 +0000</pubDate>
