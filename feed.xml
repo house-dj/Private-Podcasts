@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Nov 2025 15:27:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 15:45:14 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,15 @@
       <itunes:name>JDHe</itunes:name>
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>42 Economic History - Industrial Revolution in Britain (1700 to 1830)</title>
+      <pubDate>Wed, 26 Nov 2025 15:45:14 +0000</pubDate>
+      <description>Britain's Industrial Revolution transformed society as ingenuity in textiles, steam, and iron propelled an unprecedented shift from agrarian life to urban industry.</description>
+      <guid isPermaLink="false">42</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/42_Economic History Industrial Revolution in Britain 1700 to 1830 20251120-163718+0800.mp3" length="12850064" type="audio/mpeg"/>
+      <itunes:duration>35:41</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
     <item>
       <title>36 European History - The Enlightenment and the Transformation of European Thought (1600 to 1780)</title>
       <pubDate>Wed, 26 Nov 2025 15:27:25 +0000</pubDate>
