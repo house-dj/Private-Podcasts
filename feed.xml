@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Nov 2025 10:43:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 15:27:25 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,15 @@
       <itunes:name>JDHe</itunes:name>
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>36 European History - The Enlightenment and the Transformation of European Thought (1600 to 1780)</title>
+      <pubDate>Wed, 26 Nov 2025 15:27:25 +0000</pubDate>
+      <description>The Enlightenment fundamentally transformed European thought, challenging traditional authority with reason, progress, and new political and economic ideas.</description>
+      <guid isPermaLink="false">36</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/36_European History The Enlightenment and the Transformation of European Thought 1600 to 1780 20251126-230731+0800.mp3" length="11538944" type="audio/mpeg"/>
+      <itunes:duration>32:03</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
     <item>
       <title>34 History of Science and Technology - The Scientific Revolution (1540 to 1720)</title>
       <pubDate>Wed, 26 Nov 2025 10:43:38 +0000</pubDate>
