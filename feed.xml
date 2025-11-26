@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Nov 2025 12:37:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 10:43:38 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,15 @@
       <itunes:name>JDHe</itunes:name>
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>34 History of Science and Technology - The Scientific Revolution (1540 to 1720)</title>
+      <pubDate>Wed, 26 Nov 2025 10:43:38 +0000</pubDate>
+      <description>The Scientific Revolution fundamentally reoriented human thought, replacing ancient authority with empirical observation and universal mathematical laws.</description>
+      <guid isPermaLink="false">34</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/34_History of Science and Technology The Scientific Revolution 1540 to 1720 20251118-184447+0800.mp3" length="12375080" type="audio/mpeg"/>
+      <itunes:duration>34:22</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
     <item>
       <title>35 European History - France and the Age of Absolutism (1600 to 1789)</title>
       <pubDate>Tue, 25 Nov 2025 06:43:18 +0000</pubDate>
