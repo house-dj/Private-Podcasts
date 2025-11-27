@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Nov 2025 15:45:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Nov 2025 05:03:08 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,15 @@
       <itunes:name>JDHe</itunes:name>
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>40 European History - The French Revolution (1789 to 1804)</title>
+      <pubDate>Thu, 27 Nov 2025 05:03:08 +0000</pubDate>
+      <description>France's tumultuous fifteen-year journey from absolute monarchy through radical republic to Napoleonic empire.</description>
+      <guid isPermaLink="false">40</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/40_European History The French Revolution 1789 to 1804 20251120-103612+0800.mp3" length="14182352" type="audio/mpeg"/>
+      <itunes:duration>39:23</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
     <item>
       <title>42 Economic History - Industrial Revolution in Britain (1700 to 1830)</title>
       <pubDate>Wed, 26 Nov 2025 15:45:14 +0000</pubDate>
