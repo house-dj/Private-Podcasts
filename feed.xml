@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Nov 2025 05:06:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Nov 2025 06:17:43 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,33 @@
       <itunes:name>JDHe</itunes:name>
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>44 Economic History - Industrialization Diffusion in Europe (1815 to 1870)</title>
+      <pubDate>Thu, 27 Nov 2025 06:17:43 +0000</pubDate>
+      <description>Europe's industrial transformation from 1815-1870 rapidly reshaped economies, societies, and geopolitics, spreading steam and steel across the continent.</description>
+      <guid isPermaLink="false">44</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/44_Economic History Industrialization Diffusion in Europe 1815 to 1870 20251120-155813+0800.mp3" length="12204872" type="audio/mpeg"/>
+      <itunes:duration>33:54</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
+    <item>
+      <title>43 European History - France 1815 to 1871: Revolutions, Empire, and Nationhood</title>
+      <pubDate>Thu, 27 Nov 2025 06:17:43 +0000</pubDate>
+      <description>From 1815 to 1871, France navigated a turbulent half-century of revolutions, empires, and republics, striving for a stable national identity.</description>
+      <guid isPermaLink="false">43</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/43_European History France 1815 to 1871 Revolutions Empire and Nationhood 20251120-104558+0800.mp3" length="14702912" type="audio/mpeg"/>
+      <itunes:duration>40:50</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
+    <item>
+      <title>41 European History - Napoleonic Europe and Wars (1803 to 1815)</title>
+      <pubDate>Thu, 27 Nov 2025 06:17:43 +0000</pubDate>
+      <description>Napoleon's imperial ambitions and devastating wars from 1803 to 1815 profoundly reshaped Europe's political landscape and enduring legal structures.</description>
+      <guid isPermaLink="false">41</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/41_European History Napoleonic Europe and Wars 1803 to 1815 20251127-130632+0800.mp3" length="14227712" type="audio/mpeg"/>
+      <itunes:duration>39:31</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
     <item>
       <title>40 European History - The French Revolution (1789 to 1804)</title>
       <pubDate>Thu, 27 Nov 2025 05:03:08 +0000</pubDate>
