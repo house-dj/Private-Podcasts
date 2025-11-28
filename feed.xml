@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Nov 2025 06:17:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Nov 2025 06:32:21 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,15 @@
       <itunes:name>JDHe</itunes:name>
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>188 European History - The Revolutions of 1848</title>
+      <pubDate>Fri, 28 Nov 2025 06:32:21 +0000</pubDate>
+      <description>In 1848, a wave of liberal and nationalist revolutions swept across Europe, challenging old orders before being largely suppressed.</description>
+      <guid isPermaLink="false">188</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/188_European History Revolutions of 1848 20251121-131116+0800.mp3" length="13790528" type="audio/mpeg"/>
+      <itunes:duration>38:18</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
     <item>
       <title>44 Economic History - Industrialization Diffusion in Europe (1815 to 1870)</title>
       <pubDate>Thu, 27 Nov 2025 06:17:43 +0000</pubDate>
