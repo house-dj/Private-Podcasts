@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Nov 2025 06:32:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Nov 2025 06:01:42 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,15 @@
       <itunes:name>JDHe</itunes:name>
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>127 Exploration/Colonial - Age of Discovery I: Iberian Oceanic Empires (1400 to 1600)</title>
+      <pubDate>Sat, 29 Nov 2025 06:01:42 +0000</pubDate>
+      <description>Topic: Age of Discovery I: Iberian Oceanic Empires (1400 to 1600)</description>
+      <guid isPermaLink="false">127</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/127_ExplorationColonial Age of Discovery I Iberian Oceanic Empires 1400 to 1600 20251128-164138+0800.mp3" length="17404208" type="audio/mpeg"/>
+      <itunes:duration>48:20</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
     <item>
       <title>188 European History - The Revolutions of 1848</title>
       <pubDate>Fri, 28 Nov 2025 06:32:21 +0000</pubDate>
