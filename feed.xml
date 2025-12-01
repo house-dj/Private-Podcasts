@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Nov 2025 06:03:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2025 06:59:30 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -16,7 +16,25 @@
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
     <item>
-      <title>127 Exploration/Colonial - Age of Discovery I: Iberian Oceanic Empires (1400 to 1600)</title>
+      <title>129 American History North America 1600 to 1763 Colonial Rivalries and Societies 20251201-125158+0800</title>
+      <pubDate>Mon, 01 Dec 2025 06:59:30 +0000</pubDate>
+      <description>Automated upload for: 129 American History North America 1600 to 1763 Colonial Rivalries and Societies 20251201-125158+0800</description>
+      <guid isPermaLink="false">129</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/129_American History North America 1600 to 1763 Colonial Rivalries and Societies 20251201-125158+0800.mp3" length="15607736" type="audio/mpeg"/>
+      <itunes:duration>43:21</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
+    <item>
+      <title>128 Global History Age of Discovery II Northern Europe Enters 1550 to 1700 20251201-123624+0800</title>
+      <pubDate>Mon, 01 Dec 2025 06:59:30 +0000</pubDate>
+      <description>Automated upload for: 128 Global History Age of Discovery II Northern Europe Enters 1550 to 1700 20251201-123624+0800</description>
+      <guid isPermaLink="false">128</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/128_Global History Age of Discovery II Northern Europe Enters 1550 to 1700 20251201-123624+0800.mp3" length="14014520" type="audio/mpeg"/>
+      <itunes:duration>38:55</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
+    <item>
+      <title>127 Global History - Age of Discovery I: Iberian Oceanic Empires (1400 to 1600)</title>
       <pubDate>Sat, 29 Nov 2025 06:01:42 +0000</pubDate>
       <description>Portuguese and Spanish maritime pioneers forged the first global empires through revolutionary navigation, devastating conquests, and exploitation systems that permanently transformed world civilization.</description>
       <guid isPermaLink="false">127</guid>
