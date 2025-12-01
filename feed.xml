@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Dec 2025 07:01:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2025 09:33:11 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,24 @@
       <itunes:name>JDHe</itunes:name>
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>131 American History - The United States 1790 to 1861: Expansion and Division</title>
+      <pubDate>Mon, 01 Dec 2025 09:33:11 +0000</pubDate>
+      <description>The United States from 1790 to 1861 expanded relentlessly across the continent, deepening sectional fractures over slavery, power, and identity that ultimately made national rupture unavoidable.</description>
+      <guid isPermaLink="false">131</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/131_American History The United States 1790 to 1861 Expansion and Division 20251201-150538+0800.mp3" length="13069952" type="audio/mpeg"/>
+      <itunes:duration>36:18</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
+    <item>
+      <title>130 American History - The American Revolution (1763 to 1789)</title>
+      <pubDate>Mon, 01 Dec 2025 09:33:11 +0000</pubDate>
+      <description>The American Revolution emerged from imperial overreach, escalating colonial resistance, and a transformative war that produced a new republican state.</description>
+      <guid isPermaLink="false">130</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/130_American History The American Revolution 1763 to 1789 20251118-144105+0800.mp3" length="16382528" type="audio/mpeg"/>
+      <itunes:duration>45:30</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
     <item>
       <title>129 American History North America 1600 to 1763: Colonial Rivalries and Societies</title>
       <pubDate>Mon, 01 Dec 2025 06:59:30 +0000</pubDate>
