@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Dec 2025 06:59:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2025 07:01:58 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -16,18 +16,19 @@
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
     <item>
-      <title>129 American History North America 1600 to 1763 Colonial Rivalries and Societies 20251201-125158+0800</title>
+      <title>129 American History North America 1600 to 1763: Colonial Rivalries and Societies</title>
       <pubDate>Mon, 01 Dec 2025 06:59:30 +0000</pubDate>
-      <description>Automated upload for: 129 American History North America 1600 to 1763 Colonial Rivalries and Societies 20251201-125158+0800</description>
+      <description>Three European empires clash violently across North America from 1600 to 1763, reshaping indigenous societies while colonial rivalries inadvertently forge American identity.
+</description>
       <guid isPermaLink="false">129</guid>
       <enclosure url="https://house-dj.github.io/Private-Podcasts/129_American History North America 1600 to 1763 Colonial Rivalries and Societies 20251201-125158+0800.mp3" length="15607736" type="audio/mpeg"/>
       <itunes:duration>43:21</itunes:duration>
       <itunes:author>My Name</itunes:author>
     </item>
     <item>
-      <title>128 Global History Age of Discovery II Northern Europe Enters 1550 to 1700 20251201-123624+0800</title>
+      <title>128 Global History Age of Discovery II: Northern Europe Enters (1550 to 1700)</title>
       <pubDate>Mon, 01 Dec 2025 06:59:30 +0000</pubDate>
-      <description>Automated upload for: 128 Global History Age of Discovery II Northern Europe Enters 1550 to 1700 20251201-123624+0800</description>
+      <description>The Dutch and English transformed global maritime power between 1550-1700, challenging Spanish dominance through innovative trading companies, naval warfare, and plantation economies.</description>
       <guid isPermaLink="false">128</guid>
       <enclosure url="https://house-dj.github.io/Private-Podcasts/128_Global History Age of Discovery II Northern Europe Enters 1550 to 1700 20251201-123624+0800.mp3" length="14014520" type="audio/mpeg"/>
       <itunes:duration>38:55</itunes:duration>
