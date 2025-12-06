@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Dec 2025 09:03:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Dec 2025 09:23:49 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,15 @@
       <itunes:name>JDHe</itunes:name>
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>134 American History - United States: Post Civil War, Gilded Age to Progressive Era (1865 to 1929)</title>
+      <pubDate>Sat, 06 Dec 2025 09:23:49 +0000</pubDate>
+      <description>Post-Civil War America transformed through industrial growth and progressive reforms, but struggled with racial strife and economic inequality.</description>
+      <guid isPermaLink="false">134</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/134_American History United States Post Civil War Gilded Age to Progressive Era 1865 to 1929 20251204-135815+0800.mp3" length="13368032" type="audio/mpeg"/>
+      <itunes:duration>37:07</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
     <item>
       <title>133 American History - The American Civil War 1861 to 1865</title>
       <pubDate>Sat, 06 Dec 2025 09:03:06 +0000</pubDate>
