@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Dec 2025 03:46:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Dec 2025 09:03:06 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,15 @@
       <itunes:name>JDHe</itunes:name>
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>133 American History - The American Civil War 1861 to 1865</title>
+      <pubDate>Sat, 06 Dec 2025 09:03:06 +0000</pubDate>
+      <description>The American Civil War remade the United States through sectional rupture, industrialized warfare, and a revolutionary struggle over slavery and national identity.</description>
+      <guid isPermaLink="false">133</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/133_American History The American Civil War 1861 to 1865 20251118-145302+0800.mp3" length="16414280" type="audio/mpeg"/>
+      <itunes:duration>45:35</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
     <item>
       <title>131 American History - The United States 1790 to 1861: Expansion and Division</title>
       <pubDate>Mon, 01 Dec 2025 09:33:11 +0000</pubDate>
