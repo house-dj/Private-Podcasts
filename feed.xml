@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Dec 2025 09:23:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Dec 2025 04:29:22 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,15 @@
       <itunes:name>JDHe</itunes:name>
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>132 Global History - The Atlantic Slave Trade, 1500 to 1888: Economy, Empire, and Emancipation</title>
+      <pubDate>Sun, 07 Dec 2025 04:29:22 +0000</pubDate>
+      <description>The Atlantic slave trade underpinned early modern empires through racialized coercion, plantation expansion, and a global economy built on forced labor.</description>
+      <guid isPermaLink="false">132</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/132_Global History The Atlantic Slave Trade 1500 to 1888 Economy Empire and Emancipation 20251118-144621+0800.mp3" length="11709368" type="audio/mpeg"/>
+      <itunes:duration>32:31</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
     <item>
       <title>134 American History - United States: Post Civil War, Gilded Age to Progressive Era (1865 to 1929)</title>
       <pubDate>Sat, 06 Dec 2025 09:23:49 +0000</pubDate>
