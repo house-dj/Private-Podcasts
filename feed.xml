@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Dec 2025 04:29:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Dec 2025 05:34:19 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,15 @@
       <itunes:name>JDHe</itunes:name>
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>195 European History Iberia From Visigothic Kingdoms to the Reconquista c. 409 to 1492 CE 20251201-153231+0800</title>
+      <pubDate>Sun, 07 Dec 2025 05:34:19 +0000</pubDate>
+      <description>Automated upload for: 195 European History Iberia From Visigothic Kingdoms to the Reconquista c. 409 to 1492 CE 20251201-153231+0800</description>
+      <guid isPermaLink="false">195</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/195_European History Iberia From Visigothic Kingdoms to the Reconquista c. 409 to 1492 CE 20251201-153231+0800.mp3" length="15229952" type="audio/mpeg"/>
+      <itunes:duration>42:18</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
     <item>
       <title>132 Global History - The Atlantic Slave Trade, 1500 to 1888: Economy, Empire, and Emancipation</title>
       <pubDate>Sun, 07 Dec 2025 04:29:22 +0000</pubDate>
