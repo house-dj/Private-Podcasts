@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Dec 2025 06:04:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 11:12:01 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,33 @@
       <itunes:name>JDHe</itunes:name>
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>142 African History - Scramble for Africa and Colonial Rule (1880 to 1939)</title>
+      <pubDate>Thu, 11 Dec 2025 11:12:01 +0000</pubDate>
+      <description>The systematic European partition of Africa between 1880-1939 reshaped political boundaries, economic structures, and social systems through colonial administration and resource extraction.</description>
+      <guid isPermaLink="false">142</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/142_African History Scramble for Africa and Colonial Rule 1880 to 1939 20251211-142053+0800.mp3" length="11912840" type="audio/mpeg"/>
+      <itunes:duration>33:05</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
+    <item>
+      <title>141 African History - Africa Before the Scramble (circa 1400 to 1880)</title>
+      <pubDate>Thu, 11 Dec 2025 11:12:01 +0000</pubDate>
+      <description>From 1400 to 1880, African kingdoms like Songhai, Buganda, and Ethiopia maintained sophisticated political systems, trade networks, and military capabilities before European colonial intervention.</description>
+      <guid isPermaLink="false">141</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/141_African History Africa Before the Scramble circa 1400 to 1880 20251211-130105+0800.mp3" length="10822040" type="audio/mpeg"/>
+      <itunes:duration>30:03</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
+    <item>
+      <title>140 African History - Africa before 1400 CE (circa 1000 BCE to 1400 CE)</title>
+      <pubDate>Thu, 11 Dec 2025 11:12:01 +0000</pubDate>
+      <description>The rise of major African kingdoms from 1000 BCE to 1400 CE, including Ghana, Mali, Ethiopia, and Kongo, through trade networks and political development.</description>
+      <guid isPermaLink="false">140</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/140_African History Africa before 1400 CE circa 1000 BCE to 1400 CE 20251211-160049+0800.mp3" length="13802192" type="audio/mpeg"/>
+      <itunes:duration>38:20</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
     <item>
       <title>195 European History - Iberia: From Visigothic Kingdoms to the Reconquista (c. 409 – 1492 CE)</title>
       <pubDate>Sun, 07 Dec 2025 05:34:19 +0000</pubDate>
