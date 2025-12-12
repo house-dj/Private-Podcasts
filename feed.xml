@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Dec 2025 11:12:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Dec 2025 04:07:56 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,15 @@
       <itunes:name>JDHe</itunes:name>
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>143 African History - Africa: Decolonization and Nation-Building (1945 to 1994)</title>
+      <pubDate>Fri, 12 Dec 2025 04:07:56 +0000</pubDate>
+      <description>Africa's complex path from colonial rule to independence between 1945 and 1994, including liberation wars, Cold War influences, and nation-building challenges.</description>
+      <guid isPermaLink="false">143</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/143_African History Africa Decolonization and Nation-Building 1945 to 1994 20251211-143104+0800.mp3" length="11314952" type="audio/mpeg"/>
+      <itunes:duration>31:25</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
     <item>
       <title>142 African History - Scramble for Africa and Colonial Rule (1880 to 1939)</title>
       <pubDate>Thu, 11 Dec 2025 11:12:01 +0000</pubDate>
