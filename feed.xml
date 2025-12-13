@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Dec 2025 04:07:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Dec 2025 05:20:18 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,15 @@
       <itunes:name>JDHe</itunes:name>
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>69 Chinese History - Shang China (circa 1600 to 1046 BCE)</title>
+      <pubDate>Sat, 13 Dec 2025 05:20:18 +0000</pubDate>
+      <description>Shang China emerged as a militarized Bronze Age state defined by divination, ancestor power, and a ruling elite sustained through warfare and ritual.</description>
+      <guid isPermaLink="false">69</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/69_Chinese History Shang China circa 1600 to 1046 BCE 20251204-145633+0800.mp3" length="15181784" type="audio/mpeg"/>
+      <itunes:duration>42:10</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
     <item>
       <title>143 African History - Africa: Decolonization and Nation-Building (1945 to 1994)</title>
       <pubDate>Fri, 12 Dec 2025 04:07:56 +0000</pubDate>
