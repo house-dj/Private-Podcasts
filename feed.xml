@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Dec 2025 04:58:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Dec 2025 09:51:18 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,60 @@
       <itunes:name>JDHe</itunes:name>
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>75 Chinese History China in Disunion 220 to 589 The Three Kingdoms to the Northern and Southern Dynasties 20251204-183544+0800</title>
+      <pubDate>Sun, 14 Dec 2025 09:51:18 +0000</pubDate>
+      <description>Automated upload for: 75 Chinese History China in Disunion 220 to 589 The Three Kingdoms to the Northern and Southern Dynasties 20251204-183544+0800</description>
+      <guid isPermaLink="false">75</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/75_Chinese History China in Disunion 220 to 589 The Three Kingdoms to the Northern and Southern Dynasties 20251204-183544+0800.mp3" length="12537728" type="audio/mpeg"/>
+      <itunes:duration>34:49</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
+    <item>
+      <title>74 Chinese History Han Empire and Silk Roads 141 BCE to 220 CE 20251204-182404+0800</title>
+      <pubDate>Sun, 14 Dec 2025 09:51:18 +0000</pubDate>
+      <description>Automated upload for: 74 Chinese History Han Empire and Silk Roads 141 BCE to 220 CE 20251204-182404+0800</description>
+      <guid isPermaLink="false">74</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/74_Chinese History Han Empire and Silk Roads 141 BCE to 220 CE 20251204-182404+0800.mp3" length="11337632" type="audio/mpeg"/>
+      <itunes:duration>31:29</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
+    <item>
+      <title>73 Chinese History Qin and Early Han Foundations 221 to 141 BCE 20251204-181208+0800</title>
+      <pubDate>Sun, 14 Dec 2025 09:51:18 +0000</pubDate>
+      <description>Automated upload for: 73 Chinese History Qin and Early Han Foundations 221 to 141 BCE 20251204-181208+0800</description>
+      <guid isPermaLink="false">73</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/73_Chinese History Qin and Early Han Foundations 221 to 141 BCE 20251204-181208+0800.mp3" length="10610144" type="audio/mpeg"/>
+      <itunes:duration>29:28</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
+    <item>
+      <title>72 Chinese History Warring States 481 to 221 BCE 20251204-184857+0800</title>
+      <pubDate>Sun, 14 Dec 2025 09:51:18 +0000</pubDate>
+      <description>Automated upload for: 72 Chinese History Warring States 481 to 221 BCE 20251204-184857+0800</description>
+      <guid isPermaLink="false">72</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/72_Chinese History Warring States 481 to 221 BCE 20251204-184857+0800.mp3" length="10387448" type="audio/mpeg"/>
+      <itunes:duration>28:51</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
+    <item>
+      <title>71 Chinese History Eastern Zhou Spring and Autumn 771 to 481 BCE 20251204-174037+0800</title>
+      <pubDate>Sun, 14 Dec 2025 09:51:18 +0000</pubDate>
+      <description>Automated upload for: 71 Chinese History Eastern Zhou Spring and Autumn 771 to 481 BCE 20251204-174037+0800</description>
+      <guid isPermaLink="false">71</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/71_Chinese History Eastern Zhou Spring and Autumn 771 to 481 BCE 20251204-174037+0800.mp3" length="10166264" type="audio/mpeg"/>
+      <itunes:duration>28:14</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
+    <item>
+      <title>70 Chinese History Western Zhou 1046 to 771 BCE 20251214-124044+0800</title>
+      <pubDate>Sun, 14 Dec 2025 09:51:18 +0000</pubDate>
+      <description>Automated upload for: 70 Chinese History Western Zhou 1046 to 771 BCE 20251214-124044+0800</description>
+      <guid isPermaLink="false">70</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/70_Chinese History Western Zhou 1046 to 771 BCE 20251214-124044+0800.mp3" length="8624672" type="audio/mpeg"/>
+      <itunes:duration>23:57</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
     <item>
       <title>69 Chinese History - Shang China (circa 1600 to 1046 BCE)</title>
       <pubDate>Sun, 14 Dec 2025 04:58:47 +0000</pubDate>
