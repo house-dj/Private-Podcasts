@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Dec 2025 09:52:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Dec 2025 11:42:37 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -16,57 +16,12 @@
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
     <item>
-      <title>75 Chinese History - China in Disunion (220 to 589): The Three Kingdoms to the Northern and Southern Dynasties</title>
-      <pubDate>Sun, 14 Dec 2025 09:52:41 +0000</pubDate>
-      <description>Explore China's tumultuous era of division, from squabbling kingdoms to cultural innovation and the seeds of reunification under the Sui.</description>
-      <guid isPermaLink="false">75</guid>
-      <enclosure url="https://house-dj.github.io/Private-Podcasts/75_Chinese History China in Disunion 220 to 589 The Three Kingdoms to the Northern and Southern Dynasties 20251204-183544+0800.mp3" length="12537728" type="audio/mpeg"/>
-      <itunes:duration>34:49</itunes:duration>
-      <itunes:author>My Name</itunes:author>
-    </item>
-    <item>
-      <title>74 Chinese History - Han Empire and Silk Roads (141 BCE to 220 CE)</title>
-      <pubDate>Sun, 14 Dec 2025 09:52:41 +0000</pubDate>
-      <description>From silk-paved roads to warring factions, the Han Dynasty's legacy reveals a complex tale of cultural exchange, power, and ultimate fragmentation.</description>
-      <guid isPermaLink="false">74</guid>
-      <enclosure url="https://house-dj.github.io/Private-Podcasts/74_Chinese History Han Empire and Silk Roads 141 BCE to 220 CE 20251204-182404+0800.mp3" length="11337632" type="audio/mpeg"/>
-      <itunes:duration>31:29</itunes:duration>
-      <itunes:author>My Name</itunes:author>
-    </item>
-    <item>
-      <title>73 Chinese History - Qin and Early Han Foundations (221 to 141 BCE)</title>
-      <pubDate>Sun, 14 Dec 2025 09:52:41 +0000</pubDate>
-      <description>China s first empire rose through Legalist centralization under Qin, collapsed from repression, and was rebuilt by the early Han into stable, lasting imperial governance.</description>
-      <guid isPermaLink="false">73</guid>
-      <enclosure url="https://house-dj.github.io/Private-Podcasts/73_Chinese History Qin and Early Han Foundations 221 to 141 BCE 20251204-181208+0800.mp3" length="10610144" type="audio/mpeg"/>
-      <itunes:duration>29:28</itunes:duration>
-      <itunes:author>My Name</itunes:author>
-    </item>
-    <item>
-      <title>72 Chinese History - Warring States (481 to 221 BCE)</title>
-      <pubDate>Sun, 14 Dec 2025 09:52:41 +0000</pubDate>
-      <description>The brutal 260-year Warring States period transformed ancient China through relentless warfare, philosophical innovation, and administrative reforms that culminated in Qin's unification.</description>
-      <guid isPermaLink="false">72</guid>
-      <enclosure url="https://house-dj.github.io/Private-Podcasts/72_Chinese History Warring States 481 to 221 BCE 20251204-184857+0800.mp3" length="10387448" type="audio/mpeg"/>
-      <itunes:duration>28:51</itunes:duration>
-      <itunes:author>My Name</itunes:author>
-    </item>
-    <item>
-      <title>71 Chinese History - Eastern Zhou: Spring and Autumn (771 to 481 BCE)</title>
-      <pubDate>Sun, 14 Dec 2025 09:52:41 +0000</pubDate>
-      <description>The collapse of Western Zhou's centralized power triggered three centuries of fragmentation, hegemonic warfare, and philosophical awakening that transformed ancient China.</description>
-      <guid isPermaLink="false">71</guid>
-      <enclosure url="https://house-dj.github.io/Private-Podcasts/71_Chinese History Eastern Zhou Spring and Autumn 771 to 481 BCE 20251204-174037+0800.mp3" length="10166264" type="audio/mpeg"/>
-      <itunes:duration>28:14</itunes:duration>
-      <itunes:author>My Name</itunes:author>
-    </item>
-    <item>
       <title>70 Chinese History - Western Zhou (1046 to 771 BCE)</title>
-      <pubDate>Sun, 14 Dec 2025 09:52:41 +0000</pubDate>
+      <pubDate>Tue, 16 Dec 2025 11:42:37 +0000</pubDate>
       <description>The Western Zhou Dynasty established the Mandate of Heaven but gradually declined through feudal decentralization, barbarian invasions, and internal rebellions from 1046-771 BCE.</description>
       <guid isPermaLink="false">70</guid>
-      <enclosure url="https://house-dj.github.io/Private-Podcasts/70_Chinese History Western Zhou 1046 to 771 BCE 20251214-124044+0800.mp3" length="8624672" type="audio/mpeg"/>
-      <itunes:duration>23:57</itunes:duration>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/70_Chinese History Western Zhou 1046 to 771 BCE 20251214-124044+0800.mp3" length="12351104" type="audio/mpeg"/>
+      <itunes:duration>34:18</itunes:duration>
       <itunes:author>My Name</itunes:author>
     </item>
     <item>
