@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Dec 2025 10:18:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 10:22:04 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -15,15 +15,6 @@
       <itunes:name>JDHe</itunes:name>
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
-    <item>
-      <title>China sample</title>
-      <pubDate>Thu, 18 Dec 2025 10:18:35 +0000</pubDate>
-      <description>Automated upload for: China sample</description>
-      <guid isPermaLink="false">China</guid>
-      <enclosure url="https://house-dj.github.io/Private-Podcasts/China_sample.mp3" length="524672" type="audio/mpeg"/>
-      <itunes:duration>01:27</itunes:duration>
-      <itunes:author>My Name</itunes:author>
-    </item>
     <item>
       <title>71 Chinese History - Eastern Zhou: Spring and Autumn (771 to 481 BCE)</title>
       <pubDate>Thu, 18 Dec 2025 10:18:35 +0000</pubDate>
