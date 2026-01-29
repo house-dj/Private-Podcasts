@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Jan 2026 03:45:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 07:35:09 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -17,11 +17,11 @@
     </itunes:owner>
     <item>
       <title>3 Data Ops - DataOps Deep Dive</title>
-      <pubDate>Thu, 29 Jan 2026 03:45:24 +0000</pubDate>
-      <description>Summary of the book &quot;The DataOps Cookbook&quot;</description>
+      <pubDate>Thu, 29 Jan 2026 07:35:09 +0000</pubDate>
+      <description>This episode examines DataOps as a comprehensive methodology that combines Agile, DevOps, and statistical process control to transform modern data analytics operations.</description>
       <guid isPermaLink="false">3</guid>
-      <enclosure url="https://house-dj.github.io/Private-Podcasts/3_Data Ops DataOps Deep Dive 20260129-112701+0800.mp3" length="7236440" type="audio/mpeg"/>
-      <itunes:duration>20:06</itunes:duration>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/3_Data Ops DataOps Deep Dive 20260129-151156+0800.mp3" length="7591112" type="audio/mpeg"/>
+      <itunes:duration>21:05</itunes:duration>
       <itunes:author>My Name</itunes:author>
     </item>
     <item>
