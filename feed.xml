@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Jan 2026 04:06:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 03:45:24 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,15 @@
       <itunes:name>JDHe</itunes:name>
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>3 Data Ops - DataOps Deep Dive</title>
+      <pubDate>Thu, 29 Jan 2026 03:45:24 +0000</pubDate>
+      <description>Summary of the book &quot;The DataOps Cookbook&quot;</description>
+      <guid isPermaLink="false">3</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/3_Data Ops DataOps Deep Dive 20260129-112701+0800.mp3" length="7236440" type="audio/mpeg"/>
+      <itunes:duration>20:06</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
     <item>
       <title>1 Data Engineering - Databricks Technical Overview</title>
       <pubDate>Wed, 28 Jan 2026 04:01:02 +0000</pubDate>
