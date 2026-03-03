@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Jan 2026 07:35:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 11:10:19 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,15 @@
       <itunes:name>JDHe</itunes:name>
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Data Mesh Book Data Governance Sections</title>
+      <pubDate>Tue, 03 Mar 2026 11:10:19 +0000</pubDate>
+      <description>Automated upload for: Data Mesh Book Data Governance Sections</description>
+      <guid isPermaLink="false">Data Mesh Book</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/Data Mesh Book_Data Governance Sections.mp3" length="20846816" type="audio/mpeg"/>
+      <itunes:duration>57:54</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
     <item>
       <title>3 Data Ops - DataOps Deep Dive</title>
       <pubDate>Thu, 29 Jan 2026 07:35:09 +0000</pubDate>
