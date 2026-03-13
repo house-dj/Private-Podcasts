@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Mar 2026 05:20:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 05:22:30 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,15 @@
       <itunes:name>JDHe</itunes:name>
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2 Data Management - Data Management in Practice</title>
+      <pubDate>Fri, 13 Mar 2026 05:22:30 +0000</pubDate>
+      <description>Deep-dive on the book  Data Management at Scale by Piethein Strengholt</description>
+      <guid isPermaLink="false">2</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/2_Data Management Data Management in Practice 20260312-230840+0800.mp3" length="13190264" type="audio/mpeg"/>
+      <itunes:duration>36:38</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
     <item>
       <title>Managing Data as a Product - Chapter 2</title>
       <pubDate>Wed, 04 Mar 2026 07:21:08 +0000</pubDate>
