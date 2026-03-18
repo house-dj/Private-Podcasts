@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Mar 2026 06:29:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 08:16:57 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,15 @@
       <itunes:name>JDHe</itunes:name>
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>4 Data Management - Non-Invasive Data Governance</title>
+      <pubDate>Wed, 18 Mar 2026 08:16:57 +0000</pubDate>
+      <description>This podcast examines how non-invasive data governance integrates seamlessly into existing workflows through automation, distributed stewardship networks, and architectural design patterns that enhance productivity rather than create compliance burdens.</description>
+      <guid isPermaLink="false">4</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/4_Data Management Non-Invasive Data Governance 20260318-153451+0800.mp3" length="15033392" type="audio/mpeg"/>
+      <itunes:duration>41:45</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
     <item>
       <title>2 Data Management - Data Management in Practice</title>
       <pubDate>Fri, 13 Mar 2026 05:22:30 +0000</pubDate>
