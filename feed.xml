@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Mar 2026 08:16:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 11:46:07 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,15 @@
       <itunes:name>JDHe</itunes:name>
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Story Creation Struggles</title>
+      <pubDate>Sat, 11 Apr 2026 11:46:07 +0000</pubDate>
+      <description>Automated upload for: Story Creation Struggles</description>
+      <guid isPermaLink="false">Story Creation Struggles.mp3</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/Story Creation Struggles.mp3" length="14102432" type="audio/mpeg"/>
+      <itunes:duration>39:10</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
     <item>
       <title>4 Data Management - Non-Invasive Data Governance</title>
       <pubDate>Wed, 18 Mar 2026 08:16:57 +0000</pubDate>
