@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <description>My personal collection of history audio files.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Apr 2026 11:46:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 08:06:12 +0000</lastBuildDate>
     <itunes:image href="https://house-dj.github.io/Private-Podcasts/art.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,15 @@
       <itunes:name>JDHe</itunes:name>
       <itunes:email>my.email@example.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>5 Data Management Building Analytics Teams 20260415-233013+0800</title>
+      <pubDate>Fri, 17 Apr 2026 08:06:12 +0000</pubDate>
+      <description>Automated upload for: 5 Data Management Building Analytics Teams 20260415-233013+0800</description>
+      <guid isPermaLink="false">5</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts/5_Data Management Building Analytics Teams 20260415-233013+0800.mp3" length="13955984" type="audio/mpeg"/>
+      <itunes:duration>38:45</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
     <item>
       <title>Story Creation Struggles</title>
       <pubDate>Sat, 11 Apr 2026 11:46:07 +0000</pubDate>

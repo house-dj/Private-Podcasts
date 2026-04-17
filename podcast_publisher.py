@@ -16,9 +16,9 @@ BASE_URL = "https://house-dj.github.io/Private-Podcasts/"
 NEW_AUDIO_DIR = "_new_uploads"
 # Name of the RSS feed file
 FEED_FILE = "feed.xml"
-# Name of the topics CSV file
-TOPICS_CSV_FILE = ("C:/Users/jdhou/PycharmProjects/ReportGenerator/Generate Text Scripts/reference files/"
-                   "topics.csv")  # <--- ADDED: CSV filename constant
+# Name of the topics CSV
+PODCAST_GENERATOR_DIR = os.getenv("PODCAST_GENERATOR_DIR") # environment variable
+TOPICS_CSV_FILE = os.path.join(PODCAST_GENERATOR_DIR, "Generate Text Scripts/reference files/topics.csv")  # <--- ADDED: CSV filename constant
 # Repository details for Git commands
 REPO_NAME = "Private-Podcasts"
 
